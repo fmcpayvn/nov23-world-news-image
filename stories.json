@@ -1,0 +1,95 @@
+{
+ "date": "23 November 2026",
+ "footer": "41 stories · 6 continents · All stories verified against reporting published 22–23 November 2026",
+ "lead": {
+  "headline": "COP31 COLLAPSES WITHOUT A DEAL",
+  "kicker": "CLIMATE  ·  ANTALYA, TÜRKIYE",
+  "summary": "Nearly 200 countries fail to agree a climate declaration after record overtime, as the EU and about 130 nations reject a text with no fossil-fuel phase-out language. Small island states blame Saudi-led resistance; the first COP to end with no deal since 2009."
+ },
+ "masthead": "THE WORLD IN ONE IMAGE",
+ "second_leads": [
+  {
+   "headline": "Trump dares Iran to test the blockade: “They’ll all be at the bottom of the sea”",
+   "kicker": "MIDDLE EAST  ·  STRAIT OF HORMUZ",
+   "summary": "Trump says he is inclined to resume strikes after the New Year if no deal is reached, as 14 Iranian tankers gather near Kharg Island."
+  },
+  {
+   "headline": "Democrats clinch House majority of at least 258 seats",
+   "kicker": "UNITED STATES  ·  MIDTERMS",
+   "summary": "The largest House majority since 1992, surpassing the 2018 gains, after the 3 November midterms."
+  }
+ ],
+ "sections": [
+  {
+   "continent": "NORTH AMERICA",
+   "stories": [
+    "California sues OpenAI over model security and public safety",
+    "US races to shield air traffic network ahead of Thanksgiving rush",
+    "Trump backs ex-Nvidia CEO Jensen Huang, says company should rehire him",
+    "US probing alleged spy tied to ex-Nvidia chief; Huang faces Congress Dec 1",
+    "US intelligence chief: Putin is “not America’s friend” on Ukraine",
+    "Anthropic makes $119.5bn market debut; $26bn more from Google, Microsoft, Nvidia",
+    "Mexico cartel capture leaves 11 dead in Sinaloa as ‘El Chapo Isidro’ is taken"
+   ]
+  },
+  {
+   "continent": "SOUTH AMERICA",
+   "stories": [
+    "Bolsonaro spends night ‘without pain’ in ICU after intestinal complication",
+    "Peru records 5,459 dead coastal animals; extraordinary El Niño seen until Feb 2027",
+    "Ecuador sets flood plan for voting day on 29 November",
+    "Costa Rica gunmen kill two men, wound two girls in Laurel",
+    "Uruguay union says its ballots went missing in pension board vote",
+    "Nicaragua revolution commander Víctor Tirado López dies at 86"
+   ]
+  },
+  {
+   "continent": "EUROPE",
+   "stories": [
+    "Britain to build Ukrainian drones in joint project",
+    "France arrests 144 in latest cost-of-living protests",
+    "Five EU states plan Rwanda return hub for rejected asylum seekers from 2027",
+    "Lagarde: Europe often acts too late on slow-building crises",
+    "Germany funds $300m of US-made air defence for Ukraine with Norway",
+    "Spain: 11,037 migrants reach Canary Islands in first two weeks of November",
+    "Antibiotic-resistant infections surge in Europe; Klebsiella up 72% since 2019"
+   ]
+  },
+  {
+   "continent": "AFRICA",
+   "stories": [
+    "Drones strike Khartoum and damage a UN building; at least four killed",
+    "WHO chief pleads for peace as fighting disrupts Ebola response in DR Congo",
+    "Nigeria boat capsize kills 29 mourners in Bayelsa State",
+    "Senegal migrant boat sinks off Yenne: four dead, dozens missing",
+    "Explosion hits ammunition depot at Libya’s Benghazi naval base",
+    "Ukraine suspected of striking Russian warship at Libyan naval base",
+    "South Africa: DA offers ANC lead of 93 of 137 hung councils"
+   ]
+  },
+  {
+   "continent": "ASIA",
+   "stories": [
+    "Nepal PM Balendra Shah gets ceremonial welcome in Delhi, holds talks with Modi",
+    "Russian drone attack destroys Kyiv apartment block; five killed, child pulled alive",
+    "India and China hold 10-day talks to ease LAC tensions in Arunachal",
+    "India and EU likely to sign free trade agreement on 16 December",
+    "South Korea education minister resigns over AI cheating scandal before Suneung",
+    "Netanyahu–Eisenkot coalition talks end without a deal in Israel",
+    "Saudi Arabia intercepts drone and missile as Houthis report attack on Sanaa"
+   ]
+  },
+  {
+   "continent": "OCEANIA & SCIENCE",
+   "stories": [
+    "BepiColombo enters Mercury orbit after eight-year journey",
+    "Alcaraz beats Zverev to win first ATP Finals title",
+    "Verstappen wins Las Vegas Grand Prix for third time in four years",
+    "Liverpool hammer ten-man United 4–0 in Pochettino’s debut",
+    "Perth Scorchers beat Hobart Hurricanes in WBBL; Ainsworth takes 4–27",
+    "Google books Blue Origin’s New Glenn for AI satellites in 2029",
+    "Gukesh opens world chess title defence with black against Sindarov in Geneva"
+   ]
+  }
+ ]
+}
