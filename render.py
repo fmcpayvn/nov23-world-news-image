@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Render the 23 Nov 2026 world-news front page, 1024x1024 PNG."""
-import json, glob, textwrap
+import json, glob, os, textwrap
 from PIL import Image, ImageDraw, ImageFont
 
-ENTRY = "/home/hatch/workspace/makefun/news-image-20261123-entry"
+ENTRY = os.path.dirname(os.path.abspath(__file__))
 W, H = 1024, 1024
 PAPER = (247, 243, 234)
 INK = (18, 18, 18)
